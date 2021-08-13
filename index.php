@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
-    <title>SOCABON</title>
+    <title>UNIDAD EDUCACTIVA SOCAVON</title>
   </head>
   <body>
     
