@@ -54,4 +54,13 @@
         </div>
       </div>
     </nav>
+
     <!------menu-------->
+
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h1>Saludos</h1>
+        </div>
+      </div>
+    </div>
